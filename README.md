@@ -1,4 +1,5 @@
 # Speech-Clustering
+TTIC 31220 Project: Yushi Hu, Yiyang Ou 
 
 clustering signals of Spoken words:
 1. Deep Neural Embedding for clustering
